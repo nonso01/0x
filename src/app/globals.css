@@ -9,3 +9,7 @@
 :root {
   font-family: system-ui, sans-serif;
 }
+
+html {
+  height: 100lvh;
+}

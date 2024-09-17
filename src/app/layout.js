@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Nonso Martin",
-  description: "creative web developer | 3d artist | with knowledge of Rust",
+  description: "Creative Web Developer | 3D artist with knowledge of Rust",
 };
 
 export default function RootLayout({ children }) {
