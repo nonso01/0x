@@ -15,6 +15,7 @@
 
 html {
   min-height: 100lvh;
+  /* cursor: ; */
   body {
     min-height: inherit;
   }
@@ -41,6 +42,5 @@ html {
   display: grid;
 }
 
-.c-pointer {
-  cursor: pointer;
-}
+/* .c-pointer {
+} */
