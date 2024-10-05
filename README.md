@@ -1,3 +1,11 @@
 ## nonso01 - 0x
 
-> An updated version of my portfolio, made with love and passion
+---
+
+### UPDATE
+
+> An updated version of my previous portfolio site
+> Made with
+
+- Nextjs
+- Lucide (icons)
