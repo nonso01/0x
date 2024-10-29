@@ -7,8 +7,10 @@
   margin: 0;
   box-sizing: border-box;
 
+  font-family: "Overpass", sans-serif;
+  color: var(--ui-text-color);
+
   font-variant-numeric: slashed-zero;
-  font-family: system-ui, sans-serif;
 }
 
 :root {
@@ -18,24 +20,17 @@
   --ui-sub-alt-color: #2c2e31;
   --ui-text-color: #d1d0c5;
   --ui-error-color: #ca4754;
-
-  /* --ui-green: #2c2e31; */
 }
 
 html {
   min-height: 100lvh;
-  user-select: none;
+  /* user-select: none; */
   background-color: var(--ui-bg-color);
   body {
     min-height: inherit;
     display: grid;
     place-items: center;
   }
-}
-
-* {
-  font-family: 'Pacifico', sans-serif;
-  color: var(--ui-text-color);
 }
 
 .flex {
